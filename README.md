@@ -31,6 +31,8 @@ This helps to give answers to unanswered questions of the organisations.
 ### DATA SUMMARY
  I used Microsoft Excel to give summary of my data. I made use of pivot table tool to make data imderstandable to my audience.
 
- Sum of revenue by region
+ 1. Sum of revenue by region
+     https://github.com/Hephzibah2/LITA-class-activities-/blob/main/f9fcefc7-18e6-4481-9950-c0fbfd5a426a%20Copy.jpeg
  
- 
+2. Sum of revenue by year
+    
