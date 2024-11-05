@@ -26,10 +26,11 @@ This helps to give answers to unanswered questions of the organisations.
 2. What are the sales per year?
 
   This is the picture of data before analysing it
-  
+  https://github.com/Hephzibah2/LITA-class-activities-/blob/main/91d753de-4736-44ea-994c-e2abb15e0942.jpeg
 
 ### DATA SUMMARY
  I used Microsoft Excel to give summary of my data. I made use of pivot table tool to make data imderstandable to my audience.
 
  Sum of revenue by region
+ 
  
