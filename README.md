@@ -1,15 +1,17 @@
 # LITA-class-activities-
 
+### PROJECT OVERVIEW
+This Data Analysis is to show how much I have learned in my journey with Ladies In Tech Africa and the incubator hub
+
 ### DATA SOURCES
-The Primary source of data used is LITA Capstone Dataset.xlsx
+The Primary source of data used is Pivot Table File.xlsx
 
 ### TOOLS USED
 - Microsoft Excel [Download here](www.micosoft.com)
 1. For Data cleaning
 2. For Analysis
-- SQL- Structured Query Language: For querying data
-- Power BI [Download here](www.microsoft.com)
-1. For Data visualisation
+3. For Data visualisation
+   
 - Github: Portfolio building
 
 ### DATA CLEANING AND PREPARATION
