@@ -22,4 +22,7 @@ I performed the following actions
 
 ### EXPLORATORY DATA ANALYSIS
 This helps to give answers to unanswered questions of the organisations.
-1. What are the total sales for each product?
+1. What are the total revenue per region?
+2. What are the sales per year?
+
+### 
