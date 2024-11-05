@@ -35,4 +35,9 @@ This helps to give answers to unanswered questions of the organisations.
      https://github.com/Hephzibah2/LITA-class-activities-/blob/main/f9fcefc7-18e6-4481-9950-c0fbfd5a426a%20Copy.jpeg
  
 2. Sum of revenue by year
+
+   https://github.com/Hephzibah2/LITA-class-activities-/blob/main/f9fcefc7-18e6-4481-9950-c0fbfd5a426a%20Copy%20Copy.jpeg
+
+### DATA VISUALISATION
+
     
