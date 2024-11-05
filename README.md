@@ -25,4 +25,8 @@ This helps to give answers to unanswered questions of the organisations.
 1. What are the total revenue per region?
 2. What are the sales per year?
 
-### 
+### DATA SUMMARY
+ I used Microsoft Excel to give summary of my data. I made use of pivot table tool to make data imderstandable to my audience.
+
+ Sum of revenue by region
+ 
